@@ -3,15 +3,16 @@
 .container{
 	width:200px;
 	background:purple;
-	padding:10px;
+
 	border-left:5px solid green;
 	font-size:20px;
 	color:white;
 	text-decoration:underline;
 }
-/* p{
+p{
 	
 	font-size:20px;
+	padding:10px;
 	color:white;
 	text-decoration:underline;
-} */
+}
